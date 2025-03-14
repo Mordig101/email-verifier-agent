@@ -1,0 +1,14 @@
+# Ignore the data folder
+data/
+
+# Ignore the results folder
+results/
+
+# Ignore the screenshots folder
+screenshots/
+
+# Ignore the settings folder
+settings/
+
+# Ignore the statistics folder
+statistics/
