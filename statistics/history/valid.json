@@ -1,0 +1,177 @@
+{
+    "i.ghomri@aui.ma": [
+        {
+            "timestamp": "2025-03-19 02:52:11",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 02:52:11",
+            "event": "Provider identified: outlook.com"
+        },
+        {
+            "timestamp": "2025-03-19 02:52:11",
+            "event": "Trying verification method: api"
+        },
+        {
+            "timestamp": "2025-03-19 02:52:11",
+            "event": "Trying verification method: selenium"
+        }
+    ],
+    "joinus@experiencemorocco.com": [
+        {
+            "timestamp": "2025-03-18 18:09:20",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-18 18:09:20",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-18 18:09:20",
+            "event": "Trying verification method: selenium"
+        },
+        {
+            "timestamp": "2025-03-18 18:09:57",
+            "event": "Trying verification method: smtp"
+        }
+    ],
+    "contact@charika.ma": [
+        {
+            "timestamp": "2025-03-18 18:09:45",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-18 18:09:45",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-18 18:09:45",
+            "event": "Trying verification method: selenium"
+        }
+    ],
+    "info@enzazaden.com.br": [
+        {
+            "timestamp": "2025-03-18 18:09:20",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-18 18:09:20",
+            "event": "Provider identified: outlook.com"
+        },
+        {
+            "timestamp": "2025-03-18 18:09:20",
+            "event": "Trying verification method: api"
+        },
+        {
+            "timestamp": "2025-03-18 18:09:35",
+            "event": "Trying verification method: selenium"
+        }
+    ],
+    "abdelouhab.sabri@pasteur.ma": [
+        {
+            "timestamp": "2025-03-18 18:09:35",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-18 18:09:37",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-18 18:09:37",
+            "event": "Trying verification method: selenium"
+        },
+        {
+            "timestamp": "2025-03-18 18:10:07",
+            "event": "Trying verification method: smtp"
+        }
+    ],
+    "support@lu.ma": [
+        {
+            "timestamp": "2025-03-18 18:09:48",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-18 18:09:48",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-18 18:09:48",
+            "event": "Trying verification method: selenium"
+        }
+    ],
+    "h.mouafiq@usms.ma": [
+        {
+            "timestamp": "2025-03-18 18:09:59",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-18 18:09:59",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-18 18:09:59",
+            "event": "Trying verification method: selenium"
+        }
+    ],
+    "contact@dinomite.org": [
+        {
+            "timestamp": "2025-03-18 18:09:56",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-18 18:09:56",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-18 18:09:56",
+            "event": "Trying verification method: selenium"
+        },
+        {
+            "timestamp": "2025-03-18 18:10:15",
+            "event": "Trying verification method: smtp"
+        }
+    ],
+    "abdo.abiido@gmail.com": [
+        {
+            "timestamp": "2025-03-18 19:14:45",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-18 19:14:45",
+            "event": "Provider identified: gmail.com"
+        },
+        {
+            "timestamp": "2025-03-18 19:14:45",
+            "event": "Trying verification method: smtp"
+        }
+    ],
+    "pharmacie@gmail.com": [
+        {
+            "timestamp": "2025-03-19 01:38:09",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 01:38:09",
+            "event": "Provider identified: gmail.com"
+        },
+        {
+            "timestamp": "2025-03-19 01:38:09",
+            "event": "Trying verification method: smtp"
+        }
+    ]
+}
+        },
+        {
+            "timestamp": "2025-03-19 02:52:11",
+            "event": "Provider identified: outlook.com"
+        },
+        {
+            "timestamp": "2025-03-19 02:52:11",
+            "event": "Trying verification method: api"
+        },
+        {
+            "timestamp": "2025-03-19 02:52:12",
+            "event": "Trying verification method: selenium"
+        }
+    ]
+}

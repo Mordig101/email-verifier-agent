@@ -1,0 +1,398 @@
+{
+    "conformite@wafaassurance.co.ma": [
+        {
+            "timestamp": "2025-03-20 21:12:14",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-20 21:12:14",
+            "event": "Provider identified: custom"
+        },
+        {
+            "timestamp": "2025-03-20 21:12:14",
+            "event": "Trying verification method: smtp"
+        }
+    ],
+    "biuro@enzazaden.pl": [
+        {
+            "timestamp": "2025-03-20 20:57:31",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-20 20:57:31",
+            "event": "Provider identified: outlook.com"
+        },
+        {
+            "timestamp": "2025-03-20 20:57:31",
+            "event": "Trying verification method: api"
+        },
+        {
+            "timestamp": "2025-03-20 20:57:37",
+            "event": "Trying verification method: selenium"
+        },
+        {
+            "timestamp": "2025-03-20 20:58:13",
+            "event": "Trying verification method: smtp"
+        }
+    ],
+    "k.shelbayh@enzazaden.com": [
+        {
+            "timestamp": "2025-03-20 17:42:10",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-20 17:42:10",
+            "event": "Provider identified: outlook.com"
+        },
+        {
+            "timestamp": "2025-03-20 17:42:10",
+            "event": "Trying verification method: api"
+        },
+        {
+            "timestamp": "2025-03-20 17:42:15",
+            "event": "Trying verification method: selenium"
+        },
+        {
+            "timestamp": "2025-03-20 17:44:01",
+            "event": "Trying verification method: smtp"
+        }
+    ],
+    "info@xos.ma": [
+        {
+            "timestamp": "2025-03-20 21:12:14",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-20 21:12:14",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-20 21:12:14",
+            "event": "Trying verification method: selenium"
+        },
+        {
+            "timestamp": "2025-03-20 21:12:49",
+            "event": "Trying verification method: smtp"
+        }
+    ],
+    "pharmacie.casablanca10@gmail.com": [
+        {
+            "timestamp": "2025-03-20 01:03:33",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-20 01:03:33",
+            "event": "Provider identified: gmail.com"
+        },
+        {
+            "timestamp": "2025-03-20 01:03:33",
+            "event": "Trying verification method: smtp"
+        },
+        {
+            "timestamp": "2025-03-20 01:03:36",
+            "event": "Trying verification method: selenium"
+        }
+    ],
+    "pharmacie.casablanca110@gmail.com": [
+        {
+            "timestamp": "2025-03-18 18:34:22",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-18 18:34:22",
+            "event": "Provider identified: gmail.com"
+        },
+        {
+            "timestamp": "2025-03-18 18:34:22",
+            "event": "Trying verification method: smtp"
+        },
+        {
+            "timestamp": "2025-03-18 18:34:23",
+            "event": "Trying verification method: selenium"
+        }
+    ],
+    "pharmacie.casablanca1000@gmail.com": [
+        {
+            "timestamp": "2025-03-18 18:36:02",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-18 18:36:02",
+            "event": "Provider identified: gmail.com"
+        },
+        {
+            "timestamp": "2025-03-18 18:36:02",
+            "event": "Trying verification method: smtp"
+        },
+        {
+            "timestamp": "2025-03-18 18:36:11",
+            "event": "Trying verification method: selenium"
+        }
+    ],
+    "pharmacie.casablanca10000@gmail.com": [
+        {
+            "timestamp": "2025-03-18 19:11:24",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-18 19:11:24",
+            "event": "Provider identified: gmail.com"
+        },
+        {
+            "timestamp": "2025-03-18 19:11:24",
+            "event": "Trying verification method: smtp"
+        },
+        {
+            "timestamp": "2025-03-18 19:11:27",
+            "event": "Trying verification method: selenium"
+        }
+    ],
+    "pharmacie.casablanca100m00@gmail.com": [
+        {
+            "timestamp": "2025-03-18 19:20:34",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-18 19:20:34",
+            "event": "Provider identified: gmail.com"
+        },
+        {
+            "timestamp": "2025-03-18 19:20:34",
+            "event": "Trying verification method: smtp"
+        },
+        {
+            "timestamp": "2025-03-18 19:20:38",
+            "event": "Trying verification method: selenium"
+        }
+    ],
+    "pharmacie.casabllanca100m00@gmail.com": [
+        {
+            "timestamp": "2025-03-18 19:24:16",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-18 19:24:16",
+            "event": "Provider identified: gmail.com"
+        },
+        {
+            "timestamp": "2025-03-18 19:24:16",
+            "event": "Trying verification method: smtp"
+        },
+        {
+            "timestamp": "2025-03-18 19:24:20",
+            "event": "Trying verification method: selenium"
+        }
+    ],
+    "pharmacie.casabllandscca100m00@gmail.com": [
+        {
+            "timestamp": "2025-03-19 00:53:49",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 00:53:49",
+            "event": "Provider identified: gmail.com"
+        },
+        {
+            "timestamp": "2025-03-19 00:53:49",
+            "event": "Trying verification method: smtp"
+        },
+        {
+            "timestamp": "2025-03-19 00:53:54",
+            "event": "Trying verification method: selenium"
+        }
+    ],
+    "pharmacie.calandscca100m00@gmail.com": [
+        {
+            "timestamp": "2025-03-19 01:27:44",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 01:27:44",
+            "event": "Provider identified: gmail.com"
+        },
+        {
+            "timestamp": "2025-03-19 01:27:44",
+            "event": "Trying verification method: smtp"
+        },
+        {
+            "timestamp": "2025-03-19 01:27:48",
+            "event": "Trying verification method: selenium"
+        }
+    ],
+    "pharmacie.calca100m00@gmail.com": [
+        {
+            "timestamp": "2025-03-19 01:29:36",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 01:29:36",
+            "event": "Provider identified: gmail.com"
+        },
+        {
+            "timestamp": "2025-03-19 01:29:36",
+            "event": "Trying verification method: smtp"
+        },
+        {
+            "timestamp": "2025-03-19 01:29:40",
+            "event": "Trying verification method: selenium"
+        }
+    ],
+    "support@lu.ma": [
+        {
+            "timestamp": "2025-03-20 21:13:01",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-20 21:13:01",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-20 21:13:01",
+            "event": "Trying verification method: selenium"
+        },
+        {
+            "timestamp": "2025-03-20 21:13:47",
+            "event": "Trying verification method: smtp"
+        }
+    ],
+    "conformsdsdite@wafaassurance.co.ma": [
+        {
+            "timestamp": "2025-03-20 03:26:54",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-20 03:26:54",
+            "event": "Provider identified: custom"
+        },
+        {
+            "timestamp": "2025-03-20 03:26:54",
+            "event": "Trying verification method: smtp"
+        }
+    ],
+    "conforqsdqsmite@wafaassurance.co.ma": [
+        {
+            "timestamp": "2025-03-20 16:14:57",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-20 16:14:57",
+            "event": "Provider identified: custom"
+        },
+        {
+            "timestamp": "2025-03-20 16:14:57",
+            "event": "Trying verification method: smtp"
+        }
+    ],
+    "contaqsdct@charika.ma": [
+        {
+            "timestamp": "2025-03-20 04:13:43",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-20 04:13:43",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-20 04:13:43",
+            "event": "Trying verification method: selenium"
+        },
+        {
+            "timestamp": "2025-03-20 04:14:03",
+            "event": "Trying verification method: smtp"
+        }
+    ],
+    "conqsdtqsact@dinomite.org": [
+        {
+            "timestamp": "2025-03-20 16:17:43",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-20 16:17:44",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-20 16:17:44",
+            "event": "Trying verification method: selenium"
+        },
+        {
+            "timestamp": "2025-03-20 16:18:05",
+            "event": "Trying verification method: smtp"
+        }
+    ],
+    "infdsso@xos.ma": [
+        {
+            "timestamp": "2025-03-20 16:35:12",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-20 16:35:12",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-20 16:35:12",
+            "event": "Trying verification method: selenium"
+        },
+        {
+            "timestamp": "2025-03-20 16:35:28",
+            "event": "Trying verification method: smtp"
+        }
+    ],
+    "info@enzazaden.com.br": [
+        {
+            "timestamp": "2025-03-20 20:57:31",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-20 20:57:31",
+            "event": "Provider identified: outlook.com"
+        },
+        {
+            "timestamp": "2025-03-20 20:57:31",
+            "event": "Trying verification method: api"
+        },
+        {
+            "timestamp": "2025-03-20 20:57:36",
+            "event": "Trying verification method: selenium"
+        },
+        {
+            "timestamp": "2025-03-20 20:58:34",
+            "event": "Trying verification method: smtp"
+        }
+    ],
+    "confosqdrmite@wafaassurance.co.ma": [
+        {
+            "timestamp": "2025-03-20 21:05:42",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-20 21:05:42",
+            "event": "Provider identified: custom"
+        },
+        {
+            "timestamp": "2025-03-20 21:05:42",
+            "event": "Trying verification method: smtp"
+        }
+    ],
+    "agence.essaouira@hertz.ma": [
+        {
+            "timestamp": "2025-03-20 21:15:50",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-20 21:15:50",
+            "event": "Provider identified: outlook.com"
+        },
+        {
+            "timestamp": "2025-03-20 21:15:50",
+            "event": "Trying verification method: api"
+        },
+        {
+            "timestamp": "2025-03-20 21:15:53",
+            "event": "Trying verification method: selenium"
+        },
+        {
+            "timestamp": "2025-03-20 21:16:14",
+            "event": "Trying verification method: smtp"
+        }
+    ]
+}

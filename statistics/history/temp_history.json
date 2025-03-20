@@ -1,0 +1,122 @@
+{
+    "k.shelbayh@enzazaden.com": [
+        {
+            "timestamp": "2025-03-20 21:12:18",
+            "event": "Trying verification method: selenium"
+        }
+    ],
+    "biuro@enzazaden.pl": [
+        {
+            "timestamp": "2025-03-20 21:12:18",
+            "event": "Trying verification method: selenium"
+        }
+    ],
+    "info@enzazaden.com.br": [
+        {
+            "timestamp": "2025-03-20 21:12:18",
+            "event": "Trying verification method: selenium"
+        }
+    ],
+    "i.ghomri@aui.ma": [
+        {
+            "timestamp": "2025-03-20 21:12:19",
+            "event": "Trying verification method: selenium"
+        }
+    ],
+    "abdelouhab.sabri@pasteur.ma": [
+        {
+            "timestamp": "2025-03-20 21:12:53",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-20 21:12:53",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-20 21:12:54",
+            "event": "Trying verification method: selenium"
+        },
+        {
+            "timestamp": "2025-03-20 21:13:48",
+            "event": "Trying verification method: smtp"
+        }
+    ],
+    "nom_utilisateur@exemple.com": [
+        {
+            "timestamp": "2025-03-20 21:12:54",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-20 21:12:54",
+            "event": "Email found in invalid list - using cached result"
+        }
+    ],
+    "utilisateur@exemple.com": [
+        {
+            "timestamp": "2025-03-20 21:12:56",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-20 21:12:56",
+            "event": "Email found in invalid list - using cached result"
+        }
+    ],
+    "contact@charika.ma": [
+        {
+            "timestamp": "2025-03-20 21:12:57",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-20 21:12:57",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-20 21:12:57",
+            "event": "Trying verification method: selenium"
+        }
+    ],
+    "utlisateur@exemple.com": [
+        {
+            "timestamp": "2025-03-20 21:13:00",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-20 21:13:00",
+            "event": "Email found in invalid list - using cached result"
+        }
+    ],
+    "contact@dinomite.org": [
+        {
+            "timestamp": "2025-03-20 21:13:03",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-20 21:13:03",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-20 21:13:03",
+            "event": "Trying verification method: selenium"
+        }
+    ],
+    "h.mouafiq@usms.ma": [
+        {
+            "timestamp": "2025-03-20 21:13:03",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-20 21:13:03",
+            "event": "Provider identified: customGoogle"
+        },
+        {
+            "timestamp": "2025-03-20 21:13:03",
+            "event": "Trying verification method: selenium"
+        }
+    ],
+    "joinus@experiencemorocco.com": [
+        {
+            "timestamp": "2025-03-20 21:13:26",
+            "event": "Trying verification method: smtp"
+        }
+    ]
+}

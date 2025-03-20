@@ -1,0 +1,5 @@
+email
+conformite@wafaassurance.co.ma,wafaassurance.co.ma,2025-03-20 21:12:17,Domain has catch-all configuration,"{'smtp_result': {'is_deliverable': True, 'smtp_check': True, 'reason': None, 'mx_used': 'barid2.wafaassurance.co.ma'}, 'is_catch_all': True}"
+info@xos.ma,xos.ma,2025-03-20 21:12:52,Domain has catch-all configuration,"{'smtp_result': {'is_deliverable': True, 'smtp_check': True, 'reason': None, 'mx_used': 'smtp.google.com'}, 'is_catch_all': True}"
+support@lu.ma,lu.ma,2025-03-20 21:13:50,Domain has catch-all configuration,"{'smtp_result': {'is_deliverable': True, 'smtp_check': True, 'reason': None, 'mx_used': 'alt1.aspmx.l.google.com'}, 'is_catch_all': True}"
+agence.essaouira@hertz.ma,hertz.ma,2025-03-20 21:16:17,Mailbox unavailable (may not indicate invalid email),"{'is_deliverable': False, 'smtp_check': False, 'reason': 'Mailbox unavailable', 'mx_used': 'gbhfr.mail.protection.outlook.com'}"

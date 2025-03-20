@@ -1,0 +1,6 @@
+email
+nom_utilisateur@exemple.com,exemple.com,2025-03-19 16:44:55,Domain is blacklisted,
+utilisateur@exemple.com,exemple.com,2025-03-19 16:44:55,Domain is blacklisted,
+utlisateur@exemple.com,exemple.com,2025-03-19 16:44:57,Domain is blacklisted,
+pharmacie.casablanca10@gmail.com,gmail.com,2025-03-20 21:12:52,Email address does not exist (error element HTML changed),"{'error_html': '<div jsname=""ty6ygf"" class=""ovnfwe Is7Fhb""></div><div jsname=""B34EJ"" class=""dEOOab RxsGPe"" aria-atomic=""true"" aria-live=""assertive""><div class=""Ekjuhf Jj6Lae""><span class=""AfGCob""><svg aria-hidden=""true"" class=""Qk3oof xTjuxe"" fill=""currentColor"" focusable=""false"" width=""16px"" height=""16px"" viewBox=""0 0 24 24"" xmlns=""https://www.w3.org/2000/svg""><path d=""M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-2h2v2zm0-4h-2V7h2v6z""></path></svg></span>Couldn’t find your Google Account</div></div>', 'browser': 'chrom'}"
+4,unknown,2025-03-20 21:43:00,Invalid email format,

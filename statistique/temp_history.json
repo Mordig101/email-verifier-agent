@@ -1,0 +1,400 @@
+{
+    "pharmacie.casablanca10@gmail.com": [
+        {
+            "timestamp": "2025-03-19 21:18:15",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:18:28",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:18:45",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:02",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:17",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:33",
+            "event": "Verification started"
+        }
+    ],
+    "abdelouhab.sabri@pasteur.ma": [
+        {
+            "timestamp": "2025-03-19 21:18:15",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:18:29",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:18:45",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:04",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:18",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:33",
+            "event": "Verification started"
+        }
+    ],
+    "nom_utilisateur@exemple.com": [
+        {
+            "timestamp": "2025-03-19 21:18:15",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:18:30",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:18:48",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:04",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:19",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:37",
+            "event": "Verification started"
+        }
+    ],
+    "utilisateur@exemple.com": [
+        {
+            "timestamp": "2025-03-19 21:18:16",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:18:32",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:18:48",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:04",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:22",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:39",
+            "event": "Verification started"
+        }
+    ],
+    "contact@charika.ma": [
+        {
+            "timestamp": "2025-03-19 21:18:16",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:18:32",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:18:48",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:05",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:23",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:39",
+            "event": "Verification started"
+        }
+    ],
+    "utlisateur@exemple.com": [
+        {
+            "timestamp": "2025-03-19 21:18:16",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:18:34",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:18:49",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:07",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:24",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:39",
+            "event": "Verification started"
+        }
+    ],
+    "support@lu.ma": [
+        {
+            "timestamp": "2025-03-19 21:18:16",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:18:34",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:18:49",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:08",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:24",
+            "event": "Verification started"
+        }
+    ],
+    "contact@dinomite.org": [
+        {
+            "timestamp": "2025-03-19 21:18:17",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:18:34",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:18:53",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:09",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:25",
+            "event": "Verification started"
+        }
+    ],
+    "h.mouafiq@usms.ma": [
+        {
+            "timestamp": "2025-03-19 21:18:20",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:18:34",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:18:53",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:10",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:25",
+            "event": "Verification started"
+        }
+    ],
+    "i.ghomri@aui.ma": [
+        {
+            "timestamp": "2025-03-19 21:18:22",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:18:35",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:18:53",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:11",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:26",
+            "event": "Verification started"
+        }
+    ],
+    "joinus@experiencemorocco.com": [
+        {
+            "timestamp": "2025-03-19 21:18:23",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:18:40",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:18:54",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:11",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:27",
+            "event": "Verification started"
+        }
+    ],
+    "biuro@enzazaden.pl": [
+        {
+            "timestamp": "2025-03-19 21:18:24",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:18:40",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:18:54",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:12",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:30",
+            "event": "Verification started"
+        }
+    ],
+    "k.shelbayh@enzazaden.com": [
+        {
+            "timestamp": "2025-03-19 21:18:25",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:18:40",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:18:57",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:14",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:30",
+            "event": "Verification started"
+        }
+    ],
+    "info@enzazaden.com.br": [
+        {
+            "timestamp": "2025-03-19 21:18:25",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:18:40",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:18:57",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:14",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:32",
+            "event": "Verification started"
+        }
+    ],
+    "phar.s@yahoo.com": [
+        {
+            "timestamp": "2025-03-19 21:18:25",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:18:41",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:18:58",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:16",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:33",
+            "event": "Verification started"
+        }
+    ],
+    "info@xos.ma": [
+        {
+            "timestamp": "2025-03-19 21:18:26",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:18:42",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:00",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:17",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:33",
+            "event": "Verification started"
+        }
+    ],
+    "conformite@wafaassurance.co.ma": [
+        {
+            "timestamp": "2025-03-19 21:18:27",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:18:44",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:01",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:17",
+            "event": "Verification started"
+        },
+        {
+            "timestamp": "2025-03-19 21:19:33",
+            "event": "Verification started"
+        }
+    ]
+}

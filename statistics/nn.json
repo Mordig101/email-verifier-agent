@@ -1,0 +1,129 @@
+{
+    "valid": {
+        "total": 9,
+        "reasons": {
+            "Email exists (multiple Microsoft accounts)": 4,
+            "Email verified via SMTP": 4,
+            "Email address exists (URL indicates multiple accounts (valid email))": 1
+        }
+    },
+    "invalid": {
+        "total": 6,
+        "reasons": {
+            "Domain is blacklisted": 3,
+            "Email address does not exist (error element HTML changed)": 2,
+            "Email address does not exist (Sorry, we don't recognize this email.)": 1
+        }
+    },
+    "risky": {
+        "total": 4,
+        "reasons": {
+            "Domain has catch-all configuration": 4
+        }
+    },
+    "custom": {
+        "total": 0,
+        "reasons": {}
+    },
+    "domains": {
+        "enzazaden.pl": {
+            "total": 1,
+            "valid": 1,
+            "invalid": 0,
+            "risky": 0,
+            "custom": 0
+        },
+        "enzazaden.com.br": {
+            "total": 1,
+            "valid": 1,
+            "invalid": 0,
+            "risky": 0,
+            "custom": 0
+        },
+        "enzazaden.com": {
+            "total": 1,
+            "valid": 1,
+            "invalid": 0,
+            "risky": 0,
+            "custom": 0
+        },
+        "aui.ma": {
+            "total": 1,
+            "valid": 1,
+            "invalid": 0,
+            "risky": 0,
+            "custom": 0
+        },
+        "experiencemorocco.com": {
+            "total": 1,
+            "valid": 1,
+            "invalid": 0,
+            "risky": 0,
+            "custom": 0
+        },
+        "pasteur.ma": {
+            "total": 1,
+            "valid": 1,
+            "invalid": 0,
+            "risky": 0,
+            "custom": 0
+        },
+        "charika.ma": {
+            "total": 1,
+            "valid": 1,
+            "invalid": 0,
+            "risky": 0,
+            "custom": 0
+        },
+        "dinomite.org": {
+            "total": 1,
+            "valid": 1,
+            "invalid": 0,
+            "risky": 0,
+            "custom": 0
+        },
+        "usms.ma": {
+            "total": 1,
+            "valid": 1,
+            "invalid": 0,
+            "risky": 0,
+            "custom": 0
+        },
+        "exemple.com": {
+            "total": 3,
+            "valid": 0,
+            "invalid": 3,
+            "risky": 0,
+            "custom": 0
+        },
+        "xos.ma": {
+            "total": 2,
+            "valid": 0,
+            "invalid": 1,
+            "risky": 1,
+            "custom": 0
+        },
+        "lu.ma": {
+            "total": 2,
+            "valid": 0,
+            "invalid": 1,
+            "risky": 1,
+            "custom": 0
+        },
+        "yahoo.com": {
+            "total": 1,
+            "valid": 0,
+            "invalid": 1,
+            "risky": 0,
+            "custom": 0
+        },
+        "wafaassurance.co.ma": {
+            "total": 2,
+            "valid": 0,
+            "invalid": 0,
+            "risky": 2,
+            "custom": 0
+        }
+    },
+    "timestamp": "2025-03-20 04:08:31"
+}
