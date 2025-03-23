@@ -1,0 +1,50 @@
+# Ignore everything
+*
+
+# Don't ignore .gitignore and other git files
+!.gitignore
+!.gitattributes
+
+# Don't ignore models directory
+!models/
+!models/**
+
+# But ignore CSV files everywhere, including in models
+*.csv
+
+# Ignore other specific files/directories you want to exclude
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+.env
+.venv
+venv/
+ENV/
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ignore terminal directory and its contents
+terminal/
+terminal_*.txt
+terminal_*.bat
+hidden_runner_*.vbs
+T*_completed.txt
