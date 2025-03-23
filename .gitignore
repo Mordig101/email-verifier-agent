@@ -5,16 +5,31 @@
 !.gitignore
 !.gitattributes
 
-# Don't ignore models directory
+# Don't ignore models directory and its contents
 !models/
 !models/**
 
-# But ignore CSV files everywhere, including in models
+# Don't ignore Python files
+!*.py
+!**/*.py
+
+# Don't ignore test folder
+!Test/
+!Test/**
+
+# Don't ignore other important files
+!requirements.txt
+!README.md
+!LICENSE
+
+# But ignore CSV files everywhere
 *.csv
 
 # Ignore other specific files/directories you want to exclude
 __pycache__/
-*.py[cod]
+*.pyc
+*.pyo
+*.pyd
 *$py.class
 *.so
 .Python
